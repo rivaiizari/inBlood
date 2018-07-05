@@ -1,0 +1,184 @@
+}
+/* -------------- Header ------------------- */
+#header{
+	padding: 10px 0;
+	background: #222;
+}
+
+/* -------------- Menu ------------------- */
+#menu{
+	background: #222;
+	margin-bottom: 20px;
+}
+#menu .navbar{
+	margin-bottom: 0;
+	border-right: none;
+	border-left: none;
+	
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+}
+#menu .dropdown-menu{
+	background: #000;
+}
+#menu .dropdown-menu a{
+	color: #888;
+	padding: 10px;
+}
+#menu .dropdown-menu a:hover{
+	background: #222;
+	color: #fff;
+}
+#menu .search{
+	margin: 10px -20px 10px 0;
+}
+/* -------------- Sidebar ------------------- */
+
+.nav-tabs{
+	background: #ddd;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.tab-content{
+	border: 1px solid #ccc;
+	border-top: none;
+	margin-bottom: 20px;
+}
+.tab-content ul{
+	padding: 0;
+}
+.tab-content li{
+	list-style: none;
+	border-bottom: 1px solid #eee;
+	padding: 10px;
+	overflow: hidden;
+}
+.tab-content img{
+	width: 80px;
+	height: 60px;
+	float: left;
+	margin-right: 10px;
+}
+/* -------------- Footer ------------------- */
+#footer{
+	background: #222;
+	padding: 10px;
+	margin-top: 20px;
+	color: #555;	
+}
+.spaces{
+	height: 50px;
+}
+.rev-utama{
+	margin: auto;
+	text-align: center;
+	align-content: center;
+}
+.footer{
+	background-color: #871812;
+	color: #333333;
+}
+.fokir{
+	color: #ffffff;
+}
+.fokan{
+	color: #fff333;
+}
+.fokir li{
+	list-style: none;
+}
+.fokan li{
+	list-style: none;
+}
+.fokan li{
+	display: block;
+	position: relative;
+	float: left;
+}
+.fokan img{
+	margin-left: 5px;
+}
+.fokan p{
+	margin-left: 100px;
+}
+.copyright{
+	color: #ffffff;
+	text-align: center;
+}
+.oper a img:hover{
+	width: 120px;
+	margin-top: -15px;
+}
+
+
+/*kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?*/
+
+/*Judul*/
+.judul{
+	height: 40px;
+	width: 100%;
+	background-color: #933530;
+	color: #ffffff;
+	vertical-align: center;
+	padding: 7px;
+}
+
+
+.judultulisan{
+	margin-left: 100px;
+	vertical-align: center;
+}
+
+
+/*tabel*/
+
+
+
+
+
+/*table copas web*/
+#stok-filter {
+	float: left;
+	width: 67%;
+	height: 185px;
+	border: 0px solid;
+	background-color: white;
+}
+#stok-filter table {
+	white-space: nowrap;
+	border-top-width: 5px;
+}
+#stok-filter td {border: none;}
+#stok-graph {
+	width: 30%;
+	float: right;	
+	border: 1px solid;
+	padding: 2px;
+	background-color: white;
+	height: 185px;
+}
+#stok-result {
+	float: left;
+	width: 100%;
+	border: 0px solid;
+	background-color: white;
+	margin-top: 15px;
+}
+#stok-result div {
+	padding: 5px;
+}
+.stok-title {
+	border-bottom:1px dashed;
+	font-weight: bold;
+	padding: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+.stok-centered-cell {
+	text-align: center;
+}
+.caritabelhasil{
+	padding: 5px;
+	margin-left: 5px;
+}
